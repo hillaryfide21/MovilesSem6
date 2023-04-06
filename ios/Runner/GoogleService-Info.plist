@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>857951076058-3ipqaud9kuann2r4vgp4m7sd55302dlk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.857951076058-3ipqaud9kuann2r4vgp4m7sd55302dlk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>857951076058-43e01hdagbhd0qqbo51j6cbpvsbasvtm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtkBxzFFvqV3SRKAM4QI2qaQK5968plVI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>857951076058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hmadriz10439.practicaexamen</string>
+	<key>PROJECT_ID</key>
+	<string>practicaexamen-4d7d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>practicaexamen-4d7d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:857951076058:ios:a7038c468a7af1f7b2efe3</string>
+</dict>
+</plist>
